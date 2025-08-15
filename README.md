@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align ="center">Hi👋, I am Rafy Bhuiyan</h1>
 
-<!--
-**RafyBhuiyan/RafyBhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Turning complex algorithmic challenges into elegant code solutions, one contest at a time.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data structure and Algorithm** 
+- 💬 Ask me about **Competitive Programming, Data Structure, Algorithm** 
+- 📫 How to reach me: **rafybhuiyan23@gmail.com** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+<p>
+</p>
+
+
+## Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafyBhuiyan)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## Github Overview
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RafyBhuiyan)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafyBhuiyan&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RafyBhuiyan)  
+

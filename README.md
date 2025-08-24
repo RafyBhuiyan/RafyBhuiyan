@@ -21,8 +21,6 @@
 
 ## Github Overview
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RafyBhuiyan)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafyBhuiyan&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RafyBhuiyan)  

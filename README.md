@@ -2,8 +2,6 @@
 
 ## Turning complex algorithmic challenges into elegant code solutions, one contest at a time.
 
-Hi, I’m Rafy 👋
-
 **Working on:** BookMyDoc — a healthcare appointment platform connecting patients with doctors.
 
 **Learning:** Data Structures & Algorithms (focus: graphs, trees, dynamic programming, complexity analysis)

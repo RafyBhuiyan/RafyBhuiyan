@@ -2,9 +2,14 @@
 
 ## Turning complex algorithmic challenges into elegant code solutions, one contest at a time.
 
-- I’m currently working on **BookMyDoc** 
-- I’m currently learning **Data structure and Algorithm** 
-- Ask me about **Competitive Programming, Data Structures and Algorithms** 
-- How to reach me: **rafybhuiyan23@gmail.com** 
+Hi, I’m Rafy 👋
 
+**Working on:** BookMyDoc — a healthcare appointment platform connecting patients with doctors.
 
+**Learning:** Data Structures & Algorithms (focus: graphs, trees, dynamic programming, complexity analysis)
+
+**Ask me about:** Competitive Programming, DSA, algorithmic problem solving
+
+**Open to:** internships, collaboration, and code reviews
+
+**Reach me:** rafybhuiyan23@gmail.com

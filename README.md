@@ -2,7 +2,7 @@
 
 ## Turning complex algorithmic challenges into elegant code solutions, one contest at a time.
 
-**Working on:** BookMyDoc — a healthcare appointment platform connecting patients with doctors.
+**Working on:** PashaDokan - A digital grocery shop management system.
 
 **Learning:** Data Structures & Algorithms (focus: graphs, trees, dynamic programming, complexity analysis)
 

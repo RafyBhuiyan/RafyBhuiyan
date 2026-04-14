@@ -10,6 +10,4 @@
 
 **Open to:** internships, collaboration, and code reviews
 
-**Reach me:** rafybhuiyan23@gmail.com
-
 **My portfolio:** https://my-portfolio-pi-ecru-92.vercel.app/

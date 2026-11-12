@@ -24,7 +24,7 @@ I enjoy breaking complex problems into clear, practical solutions. Competitive p
 - **Recently built:** a [School Admission System](https://github.com/RafyBhuiyan/School-Admission-System) with timed seat reservations and a protected administration panel.
 - **Deepening my foundations:** graphs, trees, dynamic programming, and complexity analysis.
 - **Open to:** internships, collaboration, and code reviews.
-- **Let's talk:** [rafybhuiyan23@gmail.com](mailto:rafybhuiyan23@gmail.com).
+- **Let's talk:** [rafybhuiyan.dev@gmail.com](mailto:rafybhuiyan.dev@gmail.com).
 
 ## Selected work
 
@@ -55,21 +55,28 @@ My C++ templates repository, alongside my focus on competitive programming and a
 
 ## Stacks I've worked with
 
+![My technology stack: frontend, backend, data, delivery and algorithms](./images/tech-stack.svg)
+
+<details>
+<summary>Stack details</summary>
+
 | Area | Technologies |
 | --- | --- |
-| Frontend | React 19, TypeScript, Thymeleaf |
-| Backend | ASP.NET Core 10, C#, Java, Spring Boot |
+| Frontend | React , Thymeleaf, HTML, CSS |
+| Backend | ASP.NET Core 10, Spring Boot, Laravel, NodeJS |
 | Data | Entity Framework Core, PostgreSQL 18 |
 | Containers | Docker, Docker Compose |
 | Problem solving | C++, data structures and algorithms |
 
-## My language companions 🐈
+</details>
+
+## My language lion 🦁
 
 <p align="center">
-  <img src="./images/language-cats.svg" alt="Animated cats walking along bars showing my public repository language percentages" width="100%" />
+  <img src="./images/language-lion.svg" alt="Animated snarling lion with breathing motion, narrowed eyes and a flicking tail; colored mane sectors show language percentages" width="100%" />
 </p>
 
-Language shares are calculated from **code bytes in my public, non-fork repositories**, not working hours or skill levels. Organization-owned projects such as PlanR are outside this chart. Updated daily with GitHub Actions; small shares may round to less than 0.1%.
+Language shares are calculated from **code bytes in my public, non-fork repositories**, not working hours or skill levels. Organization-owned projects such as PlanR are outside this chart. The colored areas of the mane represent those shares, with a matching legend. The lion holds an alert, snarling pose with breathing motion, blinking eyes, and a flicking tail. Refreshed daily by GitHub Actions; small shares may round to less than 0.1%.
 
 ## Problem solving
 
@@ -79,25 +86,16 @@ I use contest problems to practice choosing the right data structure, reasoning 
 
 ## GitHub activity
 
-<p align="center">
-  <a href="https://github.com/RafyBhuiyan?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafyBhuiyan&amp;bg_color=0f172a&amp;color=cbd5e1&amp;line=38bdf8&amp;point=22d3ee&amp;area=true&amp;hide_border=true" alt="Rafy's recent public GitHub contribution activity" width="100%" />
-  </a>
-</p>
+[![Contribution heatmap, indexed authored commits, public pushes and recent activity](./images/github-activity.svg)](https://github.com/RafyBhuiyan?tab=repositories)
 
-<details>
-  <summary>More GitHub stats</summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RafyBhuiyan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Rafy's public GitHub statistics" width="480" />
-  </p>
-</details>
+[View my contribution calendar on GitHub →](https://github.com/RafyBhuiyan?tab=overview)
 
-<!-- Dynamic images are hosted by third-party services and may be cached or temporarily unavailable. -->
+These cards refresh daily with GitHub Actions. Contributions cover the last 365 days; indexed authored commits cover 30 days. Push counts use the available public event feed, capped by GitHub at 300 events, so they can be incomplete. Commit counts and calendar contributions are different measures.
+
+[Browse my commits](https://github.com/search?q=author%3ARafyBhuiyan&type=commits) · [View public activity](https://github.com/RafyBhuiyan?tab=overview)
 
 ---
 
-<p align="center">
-  <strong>Have an internship opportunity or a project in mind?</strong><br />
-  <a href="mailto:rafybhuiyan23@gmail.com">Let's connect</a> · <a href="https://my-portfolio-pi-ecru-92.vercel.app/">View my portfolio</a> · <a href="https://www.linkedin.com/in/rafy-bhuiyan-870a85281">LinkedIn</a>
-</p>
+**Have an internship opportunity or a project in mind?**
+
+[Email me](mailto:rafybhuiyan23@gmail.com) · [View my portfolio](https://my-portfolio-pi-ecru-92.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/rafy-bhuiyan-870a85281)

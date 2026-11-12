@@ -1,4 +1,4 @@
-name: Refresh language cats
+name: Refresh profile graphics
 
 on:
   schedule:
@@ -6,14 +6,15 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'scripts/language_cats.py'
-      - '.github/workflows/language-cats.yml'
+      - 'scripts/profile_graphics.py'
+      - 'scripts/profile_dashboard.py'
+      - '.github/workflows/profile-graphics.yml'
 
 permissions:
   contents: write
 
 concurrency:
-  group: language-cats-${{ github.ref }}
+  group: profile-graphics-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -25,16 +26,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Generate language chart
+      - name: Generate profile graphics
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python scripts/language_cats.py
-      - name: Save updated chart
+        run: python scripts/profile_graphics.py
+      - name: Save updated graphics
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add images/language-cats.svg
+          git add images/language-lion.svg images/github-activity.svg images/tech-stack.svg images/profile-data.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh language cats"
+            git commit -m "chore: refresh profile graphics"
             git push
           fi
+

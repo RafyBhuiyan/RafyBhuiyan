@@ -1,0 +1,40 @@
+name: Refresh language cats
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/language_cats.py'
+      - '.github/workflows/language-cats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: language-cats-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate language chart
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/language_cats.py
+      - name: Save updated chart
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add images/language-cats.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh language cats"
+            git push
+          fi

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="606" viewBox="0 0 960 606" role="img" aria-labelledby="title desc">
+<title id="title">Rafy's language cats</title>
+<desc id="desc">Language shares by code bytes across 17 public, non-fork owned repositories. Cats walk along each language bar.</desc>
+<style>
+text { font-family:Segoe UI,Arial,sans-serif; }
+.walk { animation:walk 7s ease-in-out infinite alternate; }
+.tail { transform-box:fill-box; transform-origin:left center; animation:wag .8s ease-in-out infinite alternate; }
+@keyframes walk { from { transform:translateX(0); } to { transform:translateX(var(--travel)); } }
+@keyframes wag { to { transform:rotate(-22deg); } }
+@media (prefers-reduced-motion:reduce) { .walk,.tail { animation:none; } }
+</style>
+<rect width="960" height="606" rx="18" fill="#0f172a"/>
+<text x="32" y="43" fill="#f8fafc" font-size="25" font-weight="700">My language companions</text>
+<text x="32" y="70" fill="#94a3b8" font-size="14">Public code, one paw at a time.</text>
+<g>
+<text x="32" y="122" fill="#e2e8f0" font-size="17">TypeScript</text>
+<rect x="180" y="112" width="620" height="14" rx="7" fill="#1e293b"/>
+<rect x="180" y="112" width="258.010" height="14" rx="7" fill="#38bdf8"/>
+<text x="920" y="124" text-anchor="end" fill="#38bdf8" font-size="18" font-weight="700">41.6%</text>
+<g transform="translate(180 101)"><g class="walk" style="--travel:228.010px;animation-delay:-0.0s">
+<g fill="#38bdf8" stroke="#38bdf8" stroke-linecap="round">
+<path class="tail" d="M7 -5 Q-8 -8 -4 -20" fill="none" stroke-width="4"/>
+<ellipse cx="14" cy="-7" rx="12" ry="7"/>
+<path d="M8 -4 L5 2 M21 -4 L24 2" stroke-width="4"/>
+<circle cx="27" cy="-13" r="8"/>
+<path d="M20 -17 L20 -26 L26 -20 M28 -20 L34 -26 L35 -15"/>
+</g><circle cx="30" cy="-14" r="1.5" fill="#0f172a"/>
+</g></g></g>
+<g>
+<text x="32" y="186" fill="#e2e8f0" font-size="17">C#</text>
+<rect x="180" y="176" width="620" height="14" rx="7" fill="#1e293b"/>
+<rect x="180" y="176" width="140.972" height="14" rx="7" fill="#a78bfa"/>
+<text x="920" y="188" text-anchor="end" fill="#a78bfa" font-size="18" font-weight="700">22.7%</text>
+<g transform="translate(180 165)"><g class="walk" style="--travel:110.972px;animation-delay:-0.7s">
+<g fill="#a78bfa" stroke="#a78bfa" stroke-linecap="round">
+<path class="tail" d="M7 -5 Q-8 -8 -4 -20" fill="none" stroke-width="4"/>
+<ellipse cx="14" cy="-7" rx="12" ry="7"/>
+<path d="M8 -4 L5 2 M21 -4 L24 2" stroke-width="4"/>
+<circle cx="27" cy="-13" r="8"/>
+<path d="M20 -17 L20 -26 L26 -20 M28 -20 L34 -26 L35 -15"/>
+</g><circle cx="30" cy="-14" r="1.5" fill="#0f172a"/>
+</g></g></g>
+<g>
+<text x="32" y="250" fill="#e2e8f0" font-size="17">JavaScript</text>
+<rect x="180" y="240" width="620" height="14" rx="7" fill="#1e293b"/>
+<rect x="180" y="240" width="79.338" height="14" rx="7" fill="#34d399"/>
+<text x="920" y="252" text-anchor="end" fill="#34d399" font-size="18" font-weight="700">12.8%</text>
+<g transform="translate(180 229)"><g class="walk" style="--travel:49.338px;animation-delay:-1.4s">
+<g fill="#34d399" stroke="#34d399" stroke-linecap="round">
+<path class="tail" d="M7 -5 Q-8 -8 -4 -20" fill="none" stroke-width="4"/>
+<ellipse cx="14" cy="-7" rx="12" ry="7"/>
+<path d="M8 -4 L5 2 M21 -4 L24 2" stroke-width="4"/>
+<circle cx="27" cy="-13" r="8"/>
+<path d="M20 -17 L20 -26 L26 -20 M28 -20 L34 -26 L35 -15"/>
+</g><circle cx="30" cy="-14" r="1.5" fill="#0f172a"/>
+</g></g></g>
+<g>
+<text x="32" y="314" fill="#e2e8f0" font-size="17">Shell</text>
+<rect x="180" y="304" width="620" height="14" rx="7" fill="#1e293b"/>
+<rect x="180" y="304" width="38.172" height="14" rx="7" fill="#fbbf24"/>
+<text x="920" y="316" text-anchor="end" fill="#fbbf24" font-size="18" font-weight="700">6.2%</text>
+<g transform="translate(180 293)"><g class="walk" style="--travel:8.172px;animation-delay:-2.0999999999999996s">
+<g fill="#fbbf24" stroke="#fbbf24" stroke-linecap="round">
+<path class="tail" d="M7 -5 Q-8 -8 -4 -20" fill="none" stroke-width="4"/>
+<ellipse cx="14" cy="-7" rx="12" ry="7"/>
+<path d="M8 -4 L5 2 M21 -4 L24 2" stroke-width="4"/>
+<circle cx="27" cy="-13" r="8"/>
+<path d="M20 -17 L20 -26 L26 -20 M28 -20 L34 -26 L35 -15"/>
+</g><circle cx="30" cy="-14" r="1.5" fill="#0f172a"/>
+</g></g></g>
+<g>
+<text x="32" y="378" fill="#e2e8f0" font-size="17">C++</text>
+<rect x="180" y="368" width="620" height="14" rx="7" fill="#1e293b"/>
+<rect x="180" y="368" width="33.031" height="14" rx="7" fill="#fb7185"/>
+<text x="920" y="380" text-anchor="end" fill="#fb7185" font-size="18" font-weight="700">5.3%</text>
+<g transform="translate(180 357)"><g class="walk" style="--travel:3.031px;animation-delay:-2.8s">
+<g fill="#fb7185" stroke="#fb7185" stroke-linecap="round">
+<path class="tail" d="M7 -5 Q-8 -8 -4 -20" fill="none" stroke-width="4"/>
+<ellipse cx="14" cy="-7" rx="12" ry="7"/>
+<path d="M8 -4 L5 2 M21 -4 L24 2" stroke-width="4"/>
+<circle cx="27" cy="-13" r="8"/>
+<path d="M20 -17 L20 -26 L26 -20 M28 -20 L34 -26 L35 -15"/>
+</g><circle cx="30" cy="-14" r="1.5" fill="#0f172a"/>
+</g></g></g>
+<g>
+<text x="32" y="442" fill="#e2e8f0" font-size="17">CSS</text>
+<rect x="180" y="432" width="620" height="14" rx="7" fill="#1e293b"/>
+<rect x="180" y="432" width="19.324" height="14" rx="7" fill="#2dd4bf"/>
+<text x="920" y="444" text-anchor="end" fill="#2dd4bf" font-size="18" font-weight="700">3.1%</text>
+<g transform="translate(180 421)"><g class="walk" style="--travel:0.000px;animation-delay:-3.5s">
+<g fill="#2dd4bf" stroke="#2dd4bf" stroke-linecap="round">
+<path class="tail" d="M7 -5 Q-8 -8 -4 -20" fill="none" stroke-width="4"/>
+<ellipse cx="14" cy="-7" rx="12" ry="7"/>
+<path d="M8 -4 L5 2 M21 -4 L24 2" stroke-width="4"/>
+<circle cx="27" cy="-13" r="8"/>
+<path d="M20 -17 L20 -26 L26 -20 M28 -20 L34 -26 L35 -15"/>
+</g><circle cx="30" cy="-14" r="1.5" fill="#0f172a"/>
+</g></g></g>
+<g>
+<text x="32" y="506" fill="#e2e8f0" font-size="17">Other</text>
+<rect x="180" y="496" width="620" height="14" rx="7" fill="#1e293b"/>
+<rect x="180" y="496" width="51.153" height="14" rx="7" fill="#94a3b8"/>
+<text x="920" y="508" text-anchor="end" fill="#94a3b8" font-size="18" font-weight="700">8.3%</text>
+<g transform="translate(180 485)"><g class="walk" style="--travel:21.153px;animation-delay:-4.199999999999999s">
+<g fill="#94a3b8" stroke="#94a3b8" stroke-linecap="round">
+<path class="tail" d="M7 -5 Q-8 -8 -4 -20" fill="none" stroke-width="4"/>
+<ellipse cx="14" cy="-7" rx="12" ry="7"/>
+<path d="M8 -4 L5 2 M21 -4 L24 2" stroke-width="4"/>
+<circle cx="27" cy="-13" r="8"/>
+<path d="M20 -17 L20 -26 L26 -20 M28 -20 L34 -26 L35 -15"/>
+</g><circle cx="30" cy="-14" r="1.5" fill="#0f172a"/>
+</g></g></g>
+<text x="32" y="564" fill="#94a3b8" font-size="13">Code bytes, not proficiency or time spent. Forks and private repositories excluded.</text>
+<text x="32" y="586" fill="#94a3b8" font-size="13">17 owned repositories · Updated 2026-11-12 UTC · Source: GitHub Languages API</text></svg>

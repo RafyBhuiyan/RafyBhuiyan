@@ -90,21 +90,21 @@ def shorten(value, limit):
 
 
 def render_stack(start_svg):
-    parts = [start_svg('Technology stack', 'Five side-by-side groups: frontend, backend, data, delivery and algorithms.', 266),
+    parts = [start_svg('Technology stack', 'Five side-by-side groups: frontend, backend, data, containers and problem solving.', 290),
              text(26, 35, 'THE TOOLKIT', 12, '#67e8f9', '600'),
              text(26, 68, 'From interface to infrastructure.', 27, '#f8fafc', '700')]
-    groups = [('FRONTEND','#38bdf8',['React 19','TypeScript','Thymeleaf']),
-              ('BACKEND','#a78bfa',['ASP.NET Core 10','C# · Java','Spring Boot']),
-              ('DATA','#34d399',['PostgreSQL 18','Entity Framework','Core']),
-              ('DELIVERY','#fbbf24',['Docker','Docker Compose','Containers']),
-              ('ALGORITHMS','#fb7185',['C++','Data structures','Competitive coding'])]
+    groups = [('FRONTEND','#38bdf8',['React','Thymeleaf','HTML','CSS']),
+              ('BACKEND','#a78bfa',['ASP.NET Core 10','Spring Boot','Laravel','NodeJS']),
+              ('DATABASE','#34d399',['SQL','PostgreSQL','MongoDB','Firebase']),
+              ('CONTAINERS','#fbbf24',['Docker','Docker Compose']),
+              ('PROBLEM SOLVING','#fb7185',['C++','Data structures','& algorithms'])]
     for i,(label,color,lines) in enumerate(groups):
         x,y=26+i*184,96
-        parts += [panel(x,y,172,142),
+        parts += [panel(x,y,172,168),
                   f'<rect x="{x+16}" y="{y+16}" width="24" height="3" rx="1.5" fill="{color}"/>',
                   text(x+16,y+42,label,11,color,'600')]
         for j,line in enumerate(lines):
-            parts.append(text(x+16,y+71+j*25,line,14,'#f8fafc' if j==0 else '#cbd5e1','600' if j==0 else '400'))
+            parts.append(text(x+16,y+67+j*23,line,14,'#f8fafc' if j==0 else '#cbd5e1','600' if j==0 else '400'))
     return '\n'.join(parts + ['</svg>'])
 
 

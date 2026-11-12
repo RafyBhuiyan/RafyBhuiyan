@@ -96,6 +96,3 @@ These cards refresh daily with GitHub Actions. Contributions cover the last 365 
 
 ---
 
-**Have an internship opportunity or a project in mind?**
-
-[Email me](mailto:rafybhuiyan23@gmail.com) · [View my portfolio](https://my-portfolio-pi-ecru-92.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/rafy-bhuiyan-870a85281)

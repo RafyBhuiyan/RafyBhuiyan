@@ -86,7 +86,7 @@
     },
     {
       "name": "RafyBhuiyan",
-      "pushed_at": "2026-11-12T10:50:03Z",
+      "pushed_at": "2026-11-12T10:58:16Z",
       "stargazers_count": 0,
       "html_url": "https://github.com/RafyBhuiyan/RafyBhuiyan"
     },
@@ -122,17 +122,9 @@
     }
   ],
   "followers": 36,
-  "updated": "2026-11-12",
+  "updated": "2026-11-14",
   "dashboard": {
     "calendar": [
-      {
-        "date": "2025-11-13",
-        "count": 0
-      },
-      {
-        "date": "2025-11-14",
-        "count": 0
-      },
       {
         "date": "2025-11-15",
         "count": 0
@@ -1583,37 +1575,58 @@
       },
       {
         "date": "2026-11-12",
-        "count": 10
+        "count": 11
+      },
+      {
+        "date": "2026-11-13",
+        "count": 0
+      },
+      {
+        "date": "2026-11-14",
+        "count": 0
       }
     ],
-    "push_count": 0,
-    "pushes": [],
+    "push_count": 8,
+    "pushes": [
+      {
+        "repo": "RafyBhuiyan/RafyBhuiyan",
+        "date": "2026-11-12T10:57:59Z"
+      },
+      {
+        "repo": "RafyBhuiyan/RafyBhuiyan",
+        "date": "2026-11-12T10:50:05Z"
+      },
+      {
+        "repo": "RafyBhuiyan/RafyBhuiyan",
+        "date": "2026-11-12T10:47:00Z"
+      }
+    ],
     "event_limit_reached": false,
-    "commit_count": 48,
+    "commit_count": 53,
     "commits": [
       {
-        "repo": "School-Admission-System",
-        "sha": "05a0691",
-        "message": "Update config.json",
-        "date": "2026-11-12T02:34:27.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/School-Admission-System/commit/05a0691abb321aaa88c52100b02c603d00d75665"
+        "repo": "RafyBhuiyan",
+        "sha": "39adc67",
+        "message": "Remove contact section from README",
+        "date": "2026-11-12T16:57:58.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/39adc673f47e09b71cc1b8a418fdf8e8d5629dc3"
       },
       {
-        "repo": "School-Admission-System",
-        "sha": "8839e8f",
-        "message": "Update config.json",
-        "date": "2026-11-12T02:30:43.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/School-Admission-System/commit/8839e8fbcbee04194a0905a5799108bf49ae4933"
+        "repo": "RafyBhuiyan",
+        "sha": "ac02908",
+        "message": "Merge pull request #1 from RafyBhuiyan/Check_1",
+        "date": "2026-11-12T16:50:03.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/ac02908b91994dbbe3548c88b57bfca30b2aef82"
       },
       {
-        "repo": "School-Admission-System",
-        "sha": "5d37986",
-        "message": "Merge pull request #14 from RafyBhuiyan/Dev",
-        "date": "2026-11-11T23:32:07.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/School-Admission-System/commit/5d379867fba2221f7107246f6fc7dcd2de753872"
+        "repo": "RafyBhuiyan",
+        "sha": "da11c59",
+        "message": "feat: add tech stack SVG and profile dashboard generation script",
+        "date": "2026-11-12T16:46:53.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/da11c59a902380ba0a87eea3fe482b48db6e0bb8"
       }
     ],
-    "since": "2026-10-14",
-    "until": "2026-11-12"
+    "since": "2026-10-16",
+    "until": "2026-11-14"
   }
 }

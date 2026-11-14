@@ -108,4 +108,4 @@
 <circle cx="562" cy="372" r="5" fill="#f97316"/><text x="582" y="378" fill="#e2e8f0" font-size="17">Python</text><text x="914" y="378" text-anchor="end" fill="#f97316" font-size="18" font-weight="700">4.3%</text><path d="M554 392H914" stroke="#1e293b"/>
 <circle cx="562" cy="414" r="5" fill="#94a3b8"/><text x="582" y="420" fill="#e2e8f0" font-size="17">Other</text><text x="914" y="420" text-anchor="end" fill="#94a3b8" font-size="18" font-weight="700">8.8%</text><path d="M554 434H914" stroke="#1e293b"/>
 <text x="38" y="513" fill="#94a3b8" font-size="13">Colored mane area = language share. Code bytes, not hours or proficiency.</text>
-<text x="38" y="536" fill="#64748b" font-size="12">17 public, non-fork owned repositories · Updated 2026-11-12 UTC</text></svg>
+<text x="38" y="536" fill="#64748b" font-size="12">17 public, non-fork owned repositories · Updated 2026-11-14 UTC</text></svg>

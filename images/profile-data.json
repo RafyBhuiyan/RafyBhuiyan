@@ -4,7 +4,7 @@
     "JavaScript": 149069,
     "HTML": 2938,
     "CSS": 36308,
-    "C++": 62062,
+    "C++": 37986,
     "TypeScript": 484776,
     "Shell": 71721,
     "Dart": 18474,
@@ -86,7 +86,7 @@
     },
     {
       "name": "RafyBhuiyan",
-      "pushed_at": "2026-11-14T10:43:04Z",
+      "pushed_at": "2026-11-15T11:17:59Z",
       "stargazers_count": 0,
       "html_url": "https://github.com/RafyBhuiyan/RafyBhuiyan"
     },
@@ -109,12 +109,6 @@
       "html_url": "https://github.com/RafyBhuiyan/ShieldX"
     },
     {
-      "name": "Templates",
-      "pushed_at": "2026-07-08T17:08:12Z",
-      "stargazers_count": 4,
-      "html_url": "https://github.com/RafyBhuiyan/Templates"
-    },
-    {
       "name": "Toph_Solution",
       "pushed_at": "2023-10-01T16:01:23Z",
       "stargazers_count": 0,
@@ -122,13 +116,9 @@
     }
   ],
   "followers": 36,
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "dashboard": {
     "calendar": [
-      {
-        "date": "2025-11-16",
-        "count": 0
-      },
       {
         "date": "2025-11-17",
         "count": 0
@@ -319,7 +309,7 @@
       },
       {
         "date": "2026-01-03",
-        "count": 2
+        "count": 0
       },
       {
         "date": "2026-01-04",
@@ -327,7 +317,7 @@
       },
       {
         "date": "2026-01-05",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-01-06",
@@ -335,7 +325,7 @@
       },
       {
         "date": "2026-01-07",
-        "count": 2
+        "count": 0
       },
       {
         "date": "2026-01-08",
@@ -463,7 +453,7 @@
       },
       {
         "date": "2026-02-08",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-02-09",
@@ -599,7 +589,7 @@
       },
       {
         "date": "2026-03-14",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-03-15",
@@ -607,7 +597,7 @@
       },
       {
         "date": "2026-03-16",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-03-17",
@@ -843,7 +833,7 @@
       },
       {
         "date": "2026-05-14",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-05-15",
@@ -1043,7 +1033,7 @@
       },
       {
         "date": "2026-07-03",
-        "count": 15
+        "count": 14
       },
       {
         "date": "2026-07-04",
@@ -1055,7 +1045,7 @@
       },
       {
         "date": "2026-07-06",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-07-07",
@@ -1063,7 +1053,7 @@
       },
       {
         "date": "2026-07-08",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-07-09",
@@ -1584,6 +1574,10 @@
       {
         "date": "2026-11-15",
         "count": 0
+      },
+      {
+        "date": "2026-11-16",
+        "count": 0
       }
     ],
     "push_count": 8,
@@ -1626,7 +1620,7 @@
         "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/da11c59a902380ba0a87eea3fe482b48db6e0bb8"
       }
     ],
-    "since": "2026-10-17",
-    "until": "2026-11-15"
+    "since": "2026-10-18",
+    "until": "2026-11-16"
   }
 }

@@ -1,21 +1,21 @@
 {
   "languages": {
     "C": 7838,
-    "JavaScript": 149534,
+    "JavaScript": 151354,
     "HTML": 2938,
-    "CSS": 36796,
+    "CSS": 46164,
     "C++": 37986,
-    "TypeScript": 637918,
+    "TypeScript": 673376,
     "Shell": 71721,
     "Dart": 18474,
+    "Dockerfile": 2762,
     "Python": 50869,
     "CMake": 19428,
     "Swift": 1972,
     "Java": 138,
     "Objective-C": 38,
     "C#": 264874,
-    "PowerShell": 14531,
-    "Dockerfile": 2261
+    "PowerShell": 14531
   },
   "repositories": [
     {
@@ -92,7 +92,7 @@
     },
     {
       "name": "RafyBhuiyan",
-      "pushed_at": "2026-11-18T11:59:11Z",
+      "pushed_at": "2026-11-19T11:56:12Z",
       "stargazers_count": 0,
       "html_url": "https://github.com/RafyBhuiyan/RafyBhuiyan"
     },
@@ -122,13 +122,9 @@
     }
   ],
   "followers": 36,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "dashboard": {
     "calendar": [
-      {
-        "date": "2025-11-20",
-        "count": 0
-      },
       {
         "date": "2025-11-21",
         "count": 0
@@ -1583,7 +1579,11 @@
       },
       {
         "date": "2026-11-19",
-        "count": 9
+        "count": 20
+      },
+      {
+        "date": "2026-11-20",
+        "count": 3
       }
     ],
     "push_count": 8,
@@ -1602,31 +1602,31 @@
       }
     ],
     "event_limit_reached": false,
-    "commit_count": 53,
+    "commit_count": 57,
     "commits": [
       {
-        "repo": "RafyBhuiyan",
-        "sha": "39adc67",
-        "message": "Remove contact section from README",
-        "date": "2026-11-12T16:57:58.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/39adc673f47e09b71cc1b8a418fdf8e8d5629dc3"
+        "repo": "marvelmarathon",
+        "sha": "5d95af9",
+        "message": "feat: add a cinema feature",
+        "date": "2026-11-19T17:51:03.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/marvelmarathon/commit/5d95af95f9c709f42b22a3e03bc7566f01acfeda"
       },
       {
-        "repo": "RafyBhuiyan",
-        "sha": "ac02908",
-        "message": "Merge pull request #1 from RafyBhuiyan/Check_1",
-        "date": "2026-11-12T16:50:03.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/ac02908b91994dbbe3548c88b57bfca30b2aef82"
+        "repo": "marvelmarathon",
+        "sha": "06f854e",
+        "message": "feat: add Marvel rewatch planning and cinema bundle quotes",
+        "date": "2026-11-19T13:39:21.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/marvelmarathon/commit/06f854ec5c7fedc2cca61a6db82ad4cedcc74f79"
       },
       {
-        "repo": "RafyBhuiyan",
-        "sha": "da11c59",
-        "message": "feat: add tech stack SVG and profile dashboard generation script",
-        "date": "2026-11-12T16:46:53.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/da11c59a902380ba0a87eea3fe482b48db6e0bb8"
+        "repo": "marvelmarathon",
+        "sha": "1d544fa",
+        "message": "initialize and feat : add shared UI components for Marvel Marathon",
+        "date": "2026-11-19T13:07:33.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/marvelmarathon/commit/1d544fa53f6c87055095e3cdebd2bfd175288472"
       }
     ],
-    "since": "2026-10-21",
-    "until": "2026-11-19"
+    "since": "2026-10-22",
+    "until": "2026-11-20"
   }
 }

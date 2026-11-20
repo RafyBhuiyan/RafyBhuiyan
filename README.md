@@ -26,31 +26,6 @@ I enjoy breaking complex problems into clear, practical solutions. Competitive p
 - **Open to:** internships, collaboration, and code reviews.
 - **Let's talk:** [rafybhuiyan.dev@gmail.com](mailto:rafybhuiyan.dev@gmail.com).
 
-## Selected work
-
-### 🎓 [School Admission System](https://github.com/RafyBhuiyan/School-Admission-System)
-
-A school admission portal where students reserve a seat, confirm it before the timer ends, and return later to view their applications. Administrators create admission classes and review applications from a protected panel.
-
-**Stack:** React 19 · TypeScript · ASP.NET Core 10 · EF Core · PostgreSQL 18 · Docker Compose
-
-[Quick start](https://github.com/RafyBhuiyan/School-Admission-System#quick-start) · [Using the portal](https://github.com/RafyBhuiyan/School-Admission-System#using-the-portal) · [How it works](https://github.com/RafyBhuiyan/School-Admission-System#how-it-works) · [Development](https://github.com/RafyBhuiyan/School-Admission-System#development) · [Tests](https://github.com/RafyBhuiyan/School-Admission-System#tests) · [Documentation](https://github.com/RafyBhuiyan/School-Admission-System#documentation)
-
-### 🗓️ [PlanR](https://github.com/DSi-Internship-Syntax50/PlanR)
-
-An academic resource, scheduling, and facility management platform. It brings room allocation, conflict detection, routine generation, and exam seat planning into one place.
-
-**Project stack:** Java · Spring Boot · PostgreSQL · Thymeleaf · Docker
-
-[Explore the code →](https://github.com/DSi-Internship-Syntax50/PlanR)
-
-### 🧩 [Templates](https://github.com/RafyBhuiyan/Templates)
-
-My C++ templates repository, alongside my focus on competitive programming and algorithmic problem solving.
-
-**Language:** C++
-
-[Explore the code →](https://github.com/RafyBhuiyan/Templates) · [View my Codeforces profile →](https://codeforces.com/profile/Rafy55)
 
 
 ## Stacks I've worked with

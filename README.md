@@ -17,17 +17,6 @@
   <a href="https://codeforces.com/profile/Rafy55"><img src="https://img.shields.io/badge/Codeforces-Rafy55-1F2937?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces profile: Rafy55" /></a>
 </p>
 
-## A little about me
-
-I enjoy breaking complex problems into clear, practical solutions. Competitive programming is where I practice algorithmic thinking; software projects are where I explore how that thinking translates into useful tools.
-
-- **Recently built:** a [School Admission System](https://github.com/RafyBhuiyan/School-Admission-System) with timed seat reservations and a protected administration panel.
-- **Deepening my foundations:** graphs, trees, dynamic programming, and complexity analysis.
-- **Open to:** internships, collaboration, and code reviews.
-- **Let's talk:** [rafybhuiyan.dev@gmail.com](mailto:rafybhuiyan.dev@gmail.com).
-
-
-
 ## Stacks I've worked with
 
 ![My technology stack: frontend, backend, data, delivery and algorithms](./images/tech-stack.svg)

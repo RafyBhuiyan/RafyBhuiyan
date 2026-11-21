@@ -1,21 +1,21 @@
 {
   "languages": {
     "C": 7838,
-    "JavaScript": 149069,
+    "JavaScript": 151354,
     "HTML": 2938,
-    "CSS": 36308,
-    "C++": 62062,
-    "TypeScript": 484776,
-    "Shell": 71721,
+    "CSS": 46164,
+    "C++": 1222130,
+    "TypeScript": 673376,
+    "Shell": 72711,
     "Dart": 18474,
+    "Dockerfile": 2762,
+    "Python": 52550,
     "CMake": 19428,
     "Swift": 1972,
     "Java": 138,
     "Objective-C": 38,
     "C#": 264874,
-    "PowerShell": 14531,
-    "Dockerfile": 2261,
-    "Python": 28494
+    "PowerShell": 14531
   },
   "repositories": [
     {
@@ -73,6 +73,12 @@
       "html_url": "https://github.com/RafyBhuiyan/Log_Page_Demo"
     },
     {
+      "name": "marvelmarathon",
+      "pushed_at": "2026-11-19T11:54:30Z",
+      "stargazers_count": 0,
+      "html_url": "https://github.com/RafyBhuiyan/marvelmarathon"
+    },
+    {
       "name": "OrbitCraft",
       "pushed_at": "2026-10-07T14:12:03Z",
       "stargazers_count": 0,
@@ -86,7 +92,7 @@
     },
     {
       "name": "RafyBhuiyan",
-      "pushed_at": "2026-11-12T09:23:13Z",
+      "pushed_at": "2026-11-21T13:06:36Z",
       "stargazers_count": 0,
       "html_url": "https://github.com/RafyBhuiyan/RafyBhuiyan"
     },
@@ -110,8 +116,8 @@
     },
     {
       "name": "Templates",
-      "pushed_at": "2026-07-08T17:08:12Z",
-      "stargazers_count": 4,
+      "pushed_at": "2026-11-21T13:03:46Z",
+      "stargazers_count": 0,
       "html_url": "https://github.com/RafyBhuiyan/Templates"
     },
     {
@@ -122,45 +128,9 @@
     }
   ],
   "followers": 36,
-  "updated": "2026-11-12",
+  "updated": "2026-11-21",
   "dashboard": {
     "calendar": [
-      {
-        "date": "2025-11-13",
-        "count": 0
-      },
-      {
-        "date": "2025-11-14",
-        "count": 0
-      },
-      {
-        "date": "2025-11-15",
-        "count": 0
-      },
-      {
-        "date": "2025-11-16",
-        "count": 0
-      },
-      {
-        "date": "2025-11-17",
-        "count": 0
-      },
-      {
-        "date": "2025-11-18",
-        "count": 1
-      },
-      {
-        "date": "2025-11-19",
-        "count": 0
-      },
-      {
-        "date": "2025-11-20",
-        "count": 0
-      },
-      {
-        "date": "2025-11-21",
-        "count": 0
-      },
       {
         "date": "2025-11-22",
         "count": 0
@@ -171,7 +141,7 @@
       },
       {
         "date": "2025-11-24",
-        "count": 4
+        "count": 2
       },
       {
         "date": "2025-11-25",
@@ -187,15 +157,15 @@
       },
       {
         "date": "2025-11-28",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2025-11-29",
-        "count": 2
+        "count": 0
       },
       {
         "date": "2025-11-30",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2025-12-01",
@@ -207,7 +177,7 @@
       },
       {
         "date": "2025-12-03",
-        "count": 2
+        "count": 0
       },
       {
         "date": "2025-12-04",
@@ -331,7 +301,7 @@
       },
       {
         "date": "2026-01-03",
-        "count": 2
+        "count": 0
       },
       {
         "date": "2026-01-04",
@@ -339,7 +309,7 @@
       },
       {
         "date": "2026-01-05",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-01-06",
@@ -347,7 +317,7 @@
       },
       {
         "date": "2026-01-07",
-        "count": 2
+        "count": 0
       },
       {
         "date": "2026-01-08",
@@ -475,7 +445,7 @@
       },
       {
         "date": "2026-02-08",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-02-09",
@@ -611,7 +581,7 @@
       },
       {
         "date": "2026-03-14",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-03-15",
@@ -619,7 +589,7 @@
       },
       {
         "date": "2026-03-16",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-03-17",
@@ -855,7 +825,7 @@
       },
       {
         "date": "2026-05-14",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-05-15",
@@ -1055,7 +1025,7 @@
       },
       {
         "date": "2026-07-03",
-        "count": 15
+        "count": 14
       },
       {
         "date": "2026-07-04",
@@ -1067,7 +1037,7 @@
       },
       {
         "date": "2026-07-06",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-07-07",
@@ -1075,7 +1045,7 @@
       },
       {
         "date": "2026-07-08",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-07-09",
@@ -1583,37 +1553,86 @@
       },
       {
         "date": "2026-11-12",
-        "count": 5
+        "count": 11
+      },
+      {
+        "date": "2026-11-13",
+        "count": 0
+      },
+      {
+        "date": "2026-11-14",
+        "count": 0
+      },
+      {
+        "date": "2026-11-15",
+        "count": 0
+      },
+      {
+        "date": "2026-11-16",
+        "count": 0
+      },
+      {
+        "date": "2026-11-17",
+        "count": 6
+      },
+      {
+        "date": "2026-11-18",
+        "count": 7
+      },
+      {
+        "date": "2026-11-19",
+        "count": 20
+      },
+      {
+        "date": "2026-11-20",
+        "count": 3
+      },
+      {
+        "date": "2026-11-21",
+        "count": 4
       }
     ],
-    "push_count": 0,
-    "pushes": [],
+    "push_count": 8,
+    "pushes": [
+      {
+        "repo": "RafyBhuiyan/RafyBhuiyan",
+        "date": "2026-11-12T10:57:59Z"
+      },
+      {
+        "repo": "RafyBhuiyan/RafyBhuiyan",
+        "date": "2026-11-12T10:50:05Z"
+      },
+      {
+        "repo": "RafyBhuiyan/RafyBhuiyan",
+        "date": "2026-11-12T10:47:00Z"
+      }
+    ],
     "event_limit_reached": false,
-    "commit_count": 48,
+    "commit_count": 60,
     "commits": [
       {
-        "repo": "School-Admission-System",
-        "sha": "05a0691",
-        "message": "Update config.json",
-        "date": "2026-11-12T02:34:27.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/School-Admission-System/commit/05a0691abb321aaa88c52100b02c603d00d75665"
+        "repo": "RafyBhuiyan",
+        "sha": "697cc0b",
+        "message": "Remove personal introduction from README",
+        "date": "2026-11-21T19:06:35.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/697cc0b2a2940b6920fd2723b24d9e5a5e788dc4"
       },
       {
-        "repo": "School-Admission-System",
-        "sha": "8839e8f",
-        "message": "Update config.json",
-        "date": "2026-11-12T02:30:43.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/School-Admission-System/commit/8839e8fbcbee04194a0905a5799108bf49ae4933"
+        "repo": "Templates",
+        "sha": "3c30a4a",
+        "message": "Add string manipulation algorithms: Suffix Array, Trie, Z Algorithm, and Hashing",
+        "date": "2026-11-21T19:03:32.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/Templates/commit/3c30a4aff3f8643c8b8fe688b47d180debd29e8e"
       },
       {
-        "repo": "School-Admission-System",
-        "sha": "5d37986",
-        "message": "Merge pull request #14 from RafyBhuiyan/Dev",
-        "date": "2026-11-11T23:32:07.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/School-Admission-System/commit/5d379867fba2221f7107246f6fc7dcd2de753872"
+        "repo": "RafyBhuiyan",
+        "sha": "caec44f",
+        "message": "Remove selected work section from README",
+        "date": "2026-11-21T01:23:08.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/caec44f2825edb8688af86adebb2bac7eaa07f3d"
       }
     ],
-    "since": "2026-10-14",
-    "until": "2026-11-12"
+    "since": "2026-10-23",
+    "until": "2026-11-21"
   }
 }

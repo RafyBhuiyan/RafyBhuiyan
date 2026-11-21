@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="266" viewBox="0 0 960 266" role="img" aria-labelledby="title desc">
+<title id="title">Technology stack</title><desc id="desc">Five side-by-side groups: frontend, backend, data, delivery and algorithms.</desc>
+<style>text {font-family:Segoe UI,Arial,sans-serif;}</style>
+<rect width="960" height="266" rx="20" fill="#0f172a"/>
+<text x="26" y="35" fill="#67e8f9" font-size="12" font-weight="600">THE TOOLKIT</text>
+<text x="26" y="68" fill="#f8fafc" font-size="27" font-weight="700">From interface to infrastructure.</text>
+<rect x="26" y="96" width="172" height="142" rx="12" fill="#162238" stroke="#26374e"/>
+<rect x="42" y="112" width="24" height="3" rx="1.5" fill="#38bdf8"/>
+<text x="42" y="138" fill="#38bdf8" font-size="11" font-weight="600">FRONTEND</text>
+<text x="42" y="167" fill="#f8fafc" font-size="14" font-weight="600">React 19</text>
+<text x="42" y="192" fill="#cbd5e1" font-size="14" font-weight="400">TypeScript</text>
+<text x="42" y="217" fill="#cbd5e1" font-size="14" font-weight="400">Thymeleaf</text>
+<rect x="210" y="96" width="172" height="142" rx="12" fill="#162238" stroke="#26374e"/>
+<rect x="226" y="112" width="24" height="3" rx="1.5" fill="#a78bfa"/>
+<text x="226" y="138" fill="#a78bfa" font-size="11" font-weight="600">BACKEND</text>
+<text x="226" y="167" fill="#f8fafc" font-size="14" font-weight="600">ASP.NET Core 10</text>
+<text x="226" y="192" fill="#cbd5e1" font-size="14" font-weight="400">C# · Java</text>
+<text x="226" y="217" fill="#cbd5e1" font-size="14" font-weight="400">Spring Boot</text>
+<rect x="394" y="96" width="172" height="142" rx="12" fill="#162238" stroke="#26374e"/>
+<rect x="410" y="112" width="24" height="3" rx="1.5" fill="#34d399"/>
+<text x="410" y="138" fill="#34d399" font-size="11" font-weight="600">DATA</text>
+<text x="410" y="167" fill="#f8fafc" font-size="14" font-weight="600">PostgreSQL 18</text>
+<text x="410" y="192" fill="#cbd5e1" font-size="14" font-weight="400">Entity Framework</text>
+<text x="410" y="217" fill="#cbd5e1" font-size="14" font-weight="400">Core</text>
+<rect x="578" y="96" width="172" height="142" rx="12" fill="#162238" stroke="#26374e"/>
+<rect x="594" y="112" width="24" height="3" rx="1.5" fill="#fbbf24"/>
+<text x="594" y="138" fill="#fbbf24" font-size="11" font-weight="600">DELIVERY</text>
+<text x="594" y="167" fill="#f8fafc" font-size="14" font-weight="600">Docker</text>
+<text x="594" y="192" fill="#cbd5e1" font-size="14" font-weight="400">Docker Compose</text>
+<text x="594" y="217" fill="#cbd5e1" font-size="14" font-weight="400">Containers</text>
+<rect x="762" y="96" width="172" height="142" rx="12" fill="#162238" stroke="#26374e"/>
+<rect x="778" y="112" width="24" height="3" rx="1.5" fill="#fb7185"/>
+<text x="778" y="138" fill="#fb7185" font-size="11" font-weight="600">ALGORITHMS</text>
+<text x="778" y="167" fill="#f8fafc" font-size="14" font-weight="600">C++</text>
+<text x="778" y="192" fill="#cbd5e1" font-size="14" font-weight="400">Data structures</text>
+<text x="778" y="217" fill="#cbd5e1" font-size="14" font-weight="400">Competitive coding</text>
+</svg>

@@ -4,12 +4,12 @@
     "JavaScript": 151354,
     "HTML": 2938,
     "CSS": 46164,
-    "C++": 37986,
+    "C++": 1222130,
     "TypeScript": 673376,
-    "Shell": 71721,
+    "Shell": 72711,
     "Dart": 18474,
     "Dockerfile": 2762,
-    "Python": 50869,
+    "Python": 52550,
     "CMake": 19428,
     "Swift": 1972,
     "Java": 138,
@@ -92,7 +92,7 @@
     },
     {
       "name": "RafyBhuiyan",
-      "pushed_at": "2026-11-20T19:23:09Z",
+      "pushed_at": "2026-11-21T13:08:10Z",
       "stargazers_count": 0,
       "html_url": "https://github.com/RafyBhuiyan/RafyBhuiyan"
     },
@@ -115,20 +115,22 @@
       "html_url": "https://github.com/RafyBhuiyan/ShieldX"
     },
     {
+      "name": "Templates",
+      "pushed_at": "2026-11-21T13:03:46Z",
+      "stargazers_count": 0,
+      "html_url": "https://github.com/RafyBhuiyan/Templates"
+    },
+    {
       "name": "Toph_Solution",
       "pushed_at": "2023-10-01T16:01:23Z",
       "stargazers_count": 0,
       "html_url": "https://github.com/RafyBhuiyan/Toph_Solution"
     }
   ],
-  "followers": 36,
-  "updated": "2026-11-21",
+  "followers": 37,
+  "updated": "2026-11-22",
   "dashboard": {
     "calendar": [
-      {
-        "date": "2025-11-22",
-        "count": 0
-      },
       {
         "date": "2025-11-23",
         "count": 0
@@ -1583,7 +1585,11 @@
       },
       {
         "date": "2026-11-21",
-        "count": 1
+        "count": 4
+      },
+      {
+        "date": "2026-11-22",
+        "count": 0
       }
     ],
     "push_count": 8,
@@ -1602,31 +1608,31 @@
       }
     ],
     "event_limit_reached": false,
-    "commit_count": 58,
+    "commit_count": 60,
     "commits": [
+      {
+        "repo": "RafyBhuiyan",
+        "sha": "697cc0b",
+        "message": "Remove personal introduction from README",
+        "date": "2026-11-21T19:06:35.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/697cc0b2a2940b6920fd2723b24d9e5a5e788dc4"
+      },
+      {
+        "repo": "Templates",
+        "sha": "3c30a4a",
+        "message": "Add string manipulation algorithms: Suffix Array, Trie, Z Algorithm, and Hashing",
+        "date": "2026-11-21T19:03:32.000+06:00",
+        "url": "https://github.com/RafyBhuiyan/Templates/commit/3c30a4aff3f8643c8b8fe688b47d180debd29e8e"
+      },
       {
         "repo": "RafyBhuiyan",
         "sha": "caec44f",
         "message": "Remove selected work section from README",
         "date": "2026-11-21T01:23:08.000+06:00",
         "url": "https://github.com/RafyBhuiyan/RafyBhuiyan/commit/caec44f2825edb8688af86adebb2bac7eaa07f3d"
-      },
-      {
-        "repo": "marvelmarathon",
-        "sha": "5d95af9",
-        "message": "feat: add a cinema feature",
-        "date": "2026-11-19T17:51:03.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/marvelmarathon/commit/5d95af95f9c709f42b22a3e03bc7566f01acfeda"
-      },
-      {
-        "repo": "marvelmarathon",
-        "sha": "06f854e",
-        "message": "feat: add Marvel rewatch planning and cinema bundle quotes",
-        "date": "2026-11-19T13:39:21.000+06:00",
-        "url": "https://github.com/RafyBhuiyan/marvelmarathon/commit/06f854ec5c7fedc2cca61a6db82ad4cedcc74f79"
       }
     ],
-    "since": "2026-10-23",
-    "until": "2026-11-21"
+    "since": "2026-10-24",
+    "until": "2026-11-22"
   }
 }
